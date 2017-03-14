@@ -1,0 +1,11 @@
+repository:
+  description: demos of cool things you can do with Probot
+  has_wiki: false
+
+labels:
+  - name: stale
+    color: ededed
+  - name: question
+    color: cc317c
+  - name: wontfix
+    color: ffffff
