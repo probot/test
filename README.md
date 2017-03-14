@@ -4,4 +4,5 @@
 
 Check out these examples:
 
-- Check out [#2](https://github.com/probot/demo/issues/2) for a demo of the [autoresponder](https://github.com/probot/autoresponder) and [stale](https://github.com/probot/stale) plugins.
+- [#2](https://github.com/probot/demo/issues/2) shows the [autoresponder](https://github.com/probot/autoresponder) and [stale](https://github.com/probot/stale) plugins
+- [#3](https://github.com/probot/demo/pull/3) shows the [owners](https://github.com/probot/autoresponder) plugin
