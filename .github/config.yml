@@ -4,8 +4,6 @@ repository:
 
 labels:
   - name: stale
-    color: ededed
+    color: ffffff
   - name: question
     color: cc317c
-  - name: wontfix
-    color: ffffff
