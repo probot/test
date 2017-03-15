@@ -1,0 +1,15 @@
+# Config for the stale plugin: https://github.com/probot/stale
+
+# Number of days of inactivity before an issue becomes stale
+days: 1
+
+exemptLabels:
+  - question
+
+# Label to use when marking an issue as stale
+staleLabel: stale
+
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  Thanks for trying out probot! This issue has been automatically marked as
+  stale and will be closed if no further activity occurs.
