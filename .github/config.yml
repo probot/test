@@ -1,6 +1,7 @@
 repository:
   description: demos of cool things you can do with Probot
   has_wiki: false
+  has_projects: false
 
 labels:
   - name: stale
