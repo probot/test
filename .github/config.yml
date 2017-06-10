@@ -1,5 +1,6 @@
 repository:
   description: demos of cool things you can do with Probot
+  homepage: https://github.com/probot
   has_wiki: false
   has_projects: false
 
