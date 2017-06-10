@@ -60,6 +60,3 @@ collaborators:
     # * `push` - can pull and push, but not administer this repository.
     # * `admin` - can pull, push and administer this repository.
     permission: push
-
-  - username: brandon
-    permission: pull
