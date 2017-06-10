@@ -8,3 +8,5 @@ labels:
     color: ffffff
   - name: question
     color: cc317c
+  - name: bug
+    color: ee0701
