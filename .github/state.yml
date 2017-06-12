@@ -2,5 +2,12 @@ states:
 - bug
 - enhancement
 - question
+- In Progress
+- In Review
+- Withdrawn
+- Deferred
+- Accepted
+- Rejected
+- Implemented
 
 project: Tracking
