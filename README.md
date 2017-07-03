@@ -10,3 +10,4 @@ Check out these examples:
  
 Testing DCO
 Testing DCO again again
+Testing DCO failure
