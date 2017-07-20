@@ -60,3 +60,9 @@ collaborators:
     # * `push` - can pull and push, but not administer this repository.
     # * `admin` - can pull, push and administer this repository.
     permission: push
+
+# NOTE: The APIs needed for teams are not supported yet by GitHub Apps
+# https://developer.github.com/v3/apps/available-endpoints/
+teams:
+  - name: amazing-people
+    permission: admin
