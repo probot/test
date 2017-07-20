@@ -5,10 +5,10 @@ repository:
   name: test
 
   # A short description of the repository that will show up on GitHub
-  description: test things out
+  description: a playground to test some things out
 
   # A URL with more information about the repository
-  homepage: https://example.github.io/
+  homepage: https://probot.github.io/
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -21,10 +21,10 @@ repository:
   has_projects: true
 
   # Either `true` to enable the wiki for this repository, `false` to disable it.
-  has_wiki: true
+  has_wiki: false
 
   # Either `true` to enable downloads for this repository, `false` to disable them.
-  has_downloads: true
+  has_downloads: false
 
   # Updates the default branch for this repository.
   # default_branch: master
