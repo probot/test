@@ -5,7 +5,7 @@ repository:
   name: test
 
   # A short description of the repository that will show up on GitHub
-  description: a playground to test some things out
+  description: a playground to test probot
 
   # A URL with more information about the repository
   homepage: https://probot.github.io/
